@@ -1,6 +1,6 @@
-## Playing with TNT blocks
+## TNTブロックで遊ぼう
 
-Another interesting block is TNT! To place a normal TNT block use:
+TNTはとても面白いです! To place a normal TNT block use:
 
 ```python
 tnt = 46
